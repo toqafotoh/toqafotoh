@@ -12,11 +12,11 @@
 <p>
 </br>
   </p>
-<p align="left" style="padding: 10px;">
+<p align="center" style="padding: 10px;">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=toqafotoh&show_icons=true&theme=dracula&count_private=true" />
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=toqafotoh&theme=dracula" />
 </p>
 <!--
