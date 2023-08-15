@@ -13,6 +13,10 @@
 <p align="left" style="padding: 10px;">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=toqafotoh&show_icons=true&theme=dracula&count_private=true" />
 </p>
+
+<p align="center"> 
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=toqafotoh&theme=dracula" />
+</p>
 <!--
 **toqafotoh/toqafotoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
