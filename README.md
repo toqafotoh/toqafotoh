@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/toqafotoh/toqafotoh/main/giphy (1).gif" width="400" Height="250"/>
 </div>
 
-<p align="left">
+<p align="left" style="padding: 10px;">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=toqafotoh&show_icons=true&theme=dracula&count_private=true" />
 </p>
 <!--
