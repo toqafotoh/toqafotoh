@@ -7,7 +7,7 @@
   ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 </div>
 <div id="header" align="left">
-  <img src="https://raw.githubusercontent.com/toqafotoh/toqafotoh/main/giphy (1).gif" width="500" Height="200"/>
+  <img src="https://raw.githubusercontent.com/toqafotoh/toqafotoh/main/giphy (1).gif" width="500" Height="350"/>
 </div>
 
 <!--
