@@ -14,7 +14,7 @@
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=toqafotoh&show_icons=true&theme=dracula&count_private=true" />
 </p>
 
-<p align="center"> 
+<p align="left"> 
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=toqafotoh&theme=dracula" />
 </p>
 <!--
